@@ -1,4 +1,4 @@
-# Link
+# Website
 https://web.njit.edu/~hy276/beta/front/login.html
 
 ### Summary 
@@ -13,9 +13,13 @@ Login with credentials:
 
 
 student logins; 
+
+
 username: student <br>
 password: 123 <br>
 
 teacher logins; 
+
+
 username: admin <br>
 password: teacher
