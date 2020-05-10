@@ -1,0 +1,38 @@
+li {
+  display: inline;
+}
+
+table, th, tr td {
+  border: 1px solid black;
+}
+
+body {
+  align: center;
+}
+textarea {
+  width: 100%;
+  height: 300px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+  white-space: pre-wrap;
+}
+#nav-bar {
+  background: lightgrey;
+  height: 50px;
+}
+#welcome-screen {
+  display: block;
+}
+#exam-screen {
+  display: none;
+}
+
+#results-screen {
+  display: none;
+}
+
+
