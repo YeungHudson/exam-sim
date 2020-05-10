@@ -10,10 +10,12 @@ teachers are able to make questions that will eventually form a test, then admin
 ##### Login
 
 Login with credentials:
-student = { username: student
+student = { username: student 
+
             password: 123
 
 or
 
 teacher = { username: admin
+
             password: teacher
